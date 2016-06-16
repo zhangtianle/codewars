@@ -1,3 +1,5 @@
+package eight;
+
 import org.junit.Test;
 
 /**
