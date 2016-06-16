@@ -1,4 +1,4 @@
-package seven;
+package six;
 
 import org.junit.Assert;
 import org.junit.Test;

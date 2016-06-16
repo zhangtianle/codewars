@@ -1,7 +1,7 @@
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import seven.Rotator;
+import six.Rotator;
 
 import static org.junit.Assert.assertArrayEquals;
 

@@ -1,4 +1,4 @@
-package seven;
+package six;
 
 /**
  * Create a method named "rotate" that returns a given array with the elements inside the array rotated n spaces.

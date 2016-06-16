@@ -1,4 +1,4 @@
-package eight;
+package seven;
 
 import org.junit.Test;
 
